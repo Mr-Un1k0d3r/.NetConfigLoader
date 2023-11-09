@@ -17,6 +17,15 @@ List of .Net application signed by Microsoft that can be used to load a dll via 
    </runtime>
 </configuration>
 ```
+
+Example:
+
+`msdeploy.exe` you need to create `msdeploy.exe.config` and add the XML data provided above.
+
+# List of .Net Signed Microsoft Binaries 
+
+952 files on my system. List here: [Signed Binaries](https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt)
+
 # Compiling the DLL
 
 The DLL needs to have strong name
