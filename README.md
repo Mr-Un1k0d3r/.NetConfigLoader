@@ -27,7 +27,7 @@ The DLL needs to have strong name
 
 Getting the strong name information for the .config file
 
-`[System.Reflection.AssemblyName]::GetAssemblyName("C:\full\path\to\dll\my.dll").FullName`
+`PS> [System.Reflection.AssemblyName]::GetAssemblyName("C:\full\path\to\dll\my.dll").FullName`
 
 # The DLL Structure
 
