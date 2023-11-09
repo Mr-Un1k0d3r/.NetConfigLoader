@@ -1,0 +1,952 @@
+C:\Program Files\Common Files\microsoft shared\ClickToRun\InspectorOfficeGadget.exe
+C:\Program Files\dotnet\sdk\5.0.102\FSharp\fsc.exe
+C:\Program Files\dotnet\sdk\5.0.102\FSharp\fsi.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\datacollector.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net452.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net452.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net46.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net46.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net461.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net461.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net462.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net462.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net47.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net47.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net471.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net471.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net472.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net472.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net48.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.net48.x86.exe
+C:\Program Files\dotnet\sdk\5.0.102\TestHost\testhost.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\Extensions\DumpMinitool.exe
+C:\Program Files\dotnet\sdk\6.0.302\Extensions\DumpMinitool.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\datacollector.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\datacollector.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net452.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net452.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net452.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net46.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net46.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net46.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net461.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net461.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net461.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net462.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net462.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net462.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net47.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net47.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net47.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net471.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net471.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net471.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net472.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net472.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net472.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net48.arm64.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net48.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.net48.x86.exe
+C:\Program Files\dotnet\sdk\6.0.302\TestHost\testhost.x86.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Mac\sdk\3.1.401\TestHost\datacollector.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Mac\sdk\3.1.401\TestHost\testhost.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Mac\sdk\3.1.401\TestHost\testhost.x86.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Windows\sdk\3.1.403\FSharp\fsc.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Windows\sdk\3.1.403\FSharp\fsi.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Windows\sdk\3.1.403\TestHost\datacollector.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Windows\sdk\3.1.403\TestHost\testhost.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\DotNet\Windows\sdk\3.1.403\TestHost\testhost.x86.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\Mono\Mac\lib\mono\4.5\csc.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\Mono\Mac\lib\mono\4.5\csi.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\Mono\Mac\lib\mono\4.5\vbc.exe
+C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\ThirdParty\Mono\Mac\lib\mono\4.5\VBCSCompiler.exe
+C:\Program Files\Hyper-V\6.2\InspectVhdDialog6.2.exe
+C:\Program Files\Hyper-V\6.2\vmconnect6.2.exe
+C:\Program Files\Hyper-V\6.3\InspectVhdDialog6.3.exe
+C:\Program Files\Hyper-V\6.3\vmconnect6.3.exe
+C:\Program Files\Hyper-V\InspectVhdDialog.exe
+C:\Program Files\Hyper-V\VMCreate.exe
+C:\Program Files\Hyper-V\VMImport.exe
+C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+C:\Program Files\IIS Express\IisExpressAdminCmd.exe
+C:\Program Files\Internet Explorer\iediagcmd.exe
+C:\Program Files\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Container.exe
+C:\Program Files\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Container.NetFX40.exe
+C:\Program Files\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Container.NetFX45.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\csencrypt.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\cspack.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\plugins\RemoteAccess\RemoteAccessAgent.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\plugins\RuntimeRESTServer\RuntimeRestServer.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\plugins\WebDeploy\WebpiCmd.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x64\IISConfigurator.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x64\WaIISHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x64\WaWorkerHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x86\IISConfigurator.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x86\WaIISHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\base\x86\WaWorkerHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x64\IISConfigurator.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x64\WaIISHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x64\WaWorkerHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x86\IISConfigurator.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x86\WaIISHost.exe
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\runtimes\NET45\base\x86\WaWorkerHost.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\csmonitor.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\csrun.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\DevFC.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\DFAgent.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\DFInit.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\dfMonitor.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\DFService.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\DFUI.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\devfabric\IISConfigurator.exe
+C:\Program Files\Microsoft SDKs\Azure\Emulator\DFUI.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Asal\TokenService\Microsoft.Asal.TokenService.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsc.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fscAnyCpu.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsi.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsiAnyCpu.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\IntelliTrace\IntelliTrace.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\JSDiagnostics\Debugger\JavaScriptDebugAdapterBridge.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.Build.Tasks.Console.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\Plugins\CredentialProvider.Microsoft\CredentialProvider.Microsoft.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\ProjectServices\PSHOST.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\CertTrustTool.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\NetworkShareCreator.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\PrepWinACK.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\VSCertificateChecker.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\BuildNotificationApp.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\EndTask.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw64\libexec\git-core\Atlassian.Bitbucket.UI.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw64\libexec\git-core\git-credential-manager-core.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw64\libexec\git-core\GitHub.UI.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw64\libexec\git-core\GitLab.UI.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSBuild.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TfsDeleteProject.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSSecurity.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\witadmin.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\Extensions\DumpMinitool.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\Extensions\DumpMinitool.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\datacollector.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\datacollector.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net452.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net452.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net452.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net46.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net46.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net46.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net461.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net461.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net461.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net462.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net462.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net462.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net47.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net47.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net47.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net471.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net471.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net471.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net472.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net472.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net472.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net48.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net48.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.net48.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\LanguageServices\InteractiveHost\Desktop\InteractiveHost32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\LanguageServices\InteractiveHost\Desktop\InteractiveHost64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Windows.Forms\FxDesignToolsServer\x64\FxDesignToolsServer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Windows.Forms\FxDesignToolsServer\x86\FxDesignToolsServer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\DeployAppRecipe.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\ADLAWebHandler.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\ASALocalRun\SA.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\CosmosLangSvc\csc.Scope.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\CosmosLangSvc\LocalRunHelper.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\CosmosLangSvc\ScopeRuntime.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\csc.Scope.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\LocalRunHelper.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\LocalRunServer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\MetaDataExecutor.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\Microsoft.Analytics.LocalRunServer.DebugProxy.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\PackageDeploymentTool.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.6.5000.0\U-SQLSDK\ScopeRuntime.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\Extractors\CPlusPlus\CppCustomModelExtractorDriver.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\Extractors\csharp\Extractor.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\intellicode.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\Suggestions\Microsoft.VisualStudio.IntelliCode.Refactorings.Ngen.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.Attacher.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.AttacherX86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.RunElevated.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\DacUnpack.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\SqlPackage.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Languages\LanguageServers\Microsoft.WebTools.Languages.LanguageServer.Host.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\ProjectSystem\VSIISExeLauncher.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Windows Azure Tools\Common\Microsoft.VisualStudio.EtwListener.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Windows Azure Tools\v2.9\Debugger\WindowsAzureDebugger.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\datacollector.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\datacollector.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\DumpMinitool.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\DumpMinitool.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\VSTestVideoRecorder.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_35.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_40.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_35.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_40.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\SettingsMigrator.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net452.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net452.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net452.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net46.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net46.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net46.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net461.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net461.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net461.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net462.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net462.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net462.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.arm64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\ycuwub5v.igl\Microsoft.VisualStudio.EtwListener.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\FeedbackCollector.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\MSTest.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Publicize.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32_35.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32_40.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent_35.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent_40.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTDCAgent.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTDCAgent32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\Appx\AppxDebugSysTray.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\x64\TailoredDeploy.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\x86\TailoredDeploy.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\SurfaceProcess\UWP\x64\UwpSurface.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\SurfaceProcess\UWP\x86\UwpSurface.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\SurfaceProcess\Wpf\Framework\x64\WpfSurface.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\SurfaceProcess\Wpf\Framework\x86\WpfSurface.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\T4VSHostProcess.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\TailoredDeploy.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\TextTransform.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\UserControlTestContainer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VcxprojReader.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSFinalizer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSHiveStub.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost-clr2.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost32-clr2.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSInitializer.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSIXInstaller.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSLaunchBrowser.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vsn.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSWebHandler.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\WebViewHost\WebViewHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\XDesProc.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.Host.CLR.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.LiveUnitTesting.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisServiceS.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.TestWindowStoreHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.VSDetouredHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.DataWarehouseHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.DataWarehouseHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.RoslynCodeAnalysisService32.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Services\Microsoft.Developer.IdentityService\Microsoft.Developer.IdentityService.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Microsoft Azure Tools\Visual Studio 17.0\2.9\RemoteDebuggerConnector\Connector\Microsoft.VisualStudio.WindowsAzure.RemoteDebugger.Connector.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Microsoft Azure Tools\Visual Studio 17.0\2.9\VsDiagnostics\WindowsAzureDiagnosticsAgent.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Microsoft Azure Tools\Visual Studio 17.0\2.9\VsDiagnostics\WindowsAzureDiagnosticsStartup.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\amd64\MSBuild.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\amd64\MSBuildTaskHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\arm64\MSBuild.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\MSBuild.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\MSBuildTaskHost.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\Roslyn\csc.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\Roslyn\csi.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\Roslyn\vbc.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\Roslyn\VBCSCompiler.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Microsoft\VisualStudio\v17.0\AppxPackage\WinMDExp.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Microsoft\VisualStudio\v17.0\TeamTest\Publicize.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\SDK\ScopeCppSDK\vc15\VC\bin\XDCmake.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\Performance Tools\VSPerfReport.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe
+C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
+C:\Program Files (x86)\IIS Express\IisExpressAdminCmd.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\csc\csc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\ilc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\csc\csc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\ilc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\csc\csc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\ilc.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm\ilc\tools\ILCTelemetry.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm\ilc\tools\MakeNativeWinMD.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm64\ilc\tools\ILCTelemetry.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm64\ilc\tools\MakeNativeWinMD.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\arm64\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x64\ilc\tools\ILCTelemetry.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x64\ilc\tools\MakeNativeWinMD.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x64\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x86\ilc\tools\ILCTelemetry.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x86\ilc\tools\MakeNativeWinMD.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x86\ilc\tools\sg.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_intern.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_merge.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mage.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mageui.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mgmtclassgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mpgo.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ResGen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SecAnnotate.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SqlMetal.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\StoreAdm.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcConfigEditor.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcTraceViewer.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WCA.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WFC.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinMDExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinRes.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\AxImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\disco.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\lc.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\sgen.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\SvcUtil.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\TlbExp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\TlbImp.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\wsdl.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsd.exe
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsltc.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsc.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsi.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsiAnyCpu.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\IntelliTrace\IntelliTrace.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\ManagedLanguages\VBCSharp\LanguageServices\InteractiveHost\Desktop\InteractiveHost32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\ManagedLanguages\VBCSharp\LanguageServices\InteractiveHost\Desktop\InteractiveHost64.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\vscode\OpenDebugAD7.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.Build.Tasks.Console.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\Plugins\CredentialProvider.Microsoft\CredentialProvider.Microsoft.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\ProjectServices\PSHOST.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\BuildNotificationApp.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\EndTask.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\libexec\git-core\Atlassian.Bitbucket.UI.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\libexec\git-core\git-askpass.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\libexec\git-core\git-credential-manager-core.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\libexec\git-core\git-credential-manager.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\libexec\git-core\GitHub.UI.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSBuild.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TfsDeleteProject.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSSecurity.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\witadmin.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\datacollector.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHost\testhost.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Graphics\Debugger\EnableGraphicsTools.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\Extractors\CPlusPlus\CppCustomModelExtractorDriver.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\Extractors\csharp\Extractor.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\IntelliCode\CLI\intellicode.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.Analyzer.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.Attacher.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.AttacherX86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Python\Core\Microsoft.PythonTools.RunElevated.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Languages\LanguageServers\Microsoft.WebTools.Languages.LanguageServer.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Web Tools\ProjectSystem\VSIISExeLauncher.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Windows Azure Tools\Common\Microsoft.VisualStudio.EtwListener.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Windows Azure Tools\v2.9\Debugger\WindowsAzureDebugger.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\datacollector.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\Extensions\V1\VSTestVideoRecorder.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\VSTestVideoRecorder.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\SettingsMigrator.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net452.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net452.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net46.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net46.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net461.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net461.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net462.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net462.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\testhost.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\FeedbackCollector.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\MSTest.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Publicize.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent32_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent32_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent_35.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTAgent_40.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTDCAgent.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\QTDCAgent32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Remote Debugger\Appx\AppxDebugSysTray.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\SurfaceProcess\Wpf\Framework\x64\WpfSurface.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\SurfaceProcess\Wpf\Framework\x86\WpfSurface.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\T4VSHostProcess.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\TextTransform.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\UserControlTestContainer.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VcxprojReader.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSFinalizer.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSHiveStub.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\vshost-clr2.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\vshost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\vshost32-clr2.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\vshost32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSInitializer.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSIXInstaller.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSLaunchBrowser.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\vsn.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VSWebHandler.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\XDesProc.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.Host.CLR.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.LiveUnitTesting.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.TestWindowStoreHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.DataWarehouseHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.DataWarehouseHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.RoslynCodeAnalysisService32.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\amd64\MSBuild.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\amd64\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuildTaskHost.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csi.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\vbc.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Publicize.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\VSPerfReport.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx64\x64\vctip.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx64\x64\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx64\x86\vctip.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx64\x86\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x64\vctip.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x64\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\vctip.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\xdcmake.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\Feedback\dump64.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\Feedback\dump64a.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\feedback.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\InstallCleanup.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.windows.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installershell.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_layout.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\VSPerfASPNetCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2022\VSPerfASPNetCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Entity Framework Tools\NuGet Packages\EntityFramework.5.0.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Entity Framework Tools\NuGet Packages\EntityFramework.6.2.0\tools\migrate.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x64\ComparePackage.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x64\PackageEditor.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x64\WinAppDeployCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x86\ComparePackage.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x86\PackageEditor.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\bin\10.0.22000.0\x86\WinAppDeployCmd.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\SDKs\Azure\v2.9\bin\plugins\Diagnostics\DiagnosticsPlugin.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\SDKs\Azure\v2.9\bin\plugins\Diagnostics\DiagnosticsPluginLauncher.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\SDKs\Azure\v2.9\bin\plugins\Diagnostics\Monitor\x64\Extensions\ApplicationInsightsExtension\ApplicationInsightsExtension.exe
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\VsWebProtocolSelector\Microsoft.VisualStudio.VsWebProtocolSelector.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\ilc.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\tools\sg.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\ilc.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\tools\sg.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\ilc.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\tools\Gatekeeper.exe
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\tools\sg.exe
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\appcert.exe
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\appcertui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\arm64\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\bulkmetadatapackagingwizard.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\DeviceMetadataWizard.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\bulkmetadatapackagingwizard.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\DeviceMetadataWizard.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\arm64\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\AccChecker\AccCheckConsole.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\AccChecker\acccheckui.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\UIAVerify\VisualUIAVerifyNative.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\vsdiagview.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\wsdcodegen.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\wsutil.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\ftquery.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\mbidgenerator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\apivalidator.exe
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\apivalidator.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm\adplus.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm\adplusmanager.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm64\adplus.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm64\adplusmanager.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\arm64\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplus.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplusmanager.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplusmanager.exe
+C:\Program Files (x86)\Windows Kits\10\Debuggers\x86\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Testing\StandaloneTesting\Internal\arm\standalonerunner.exe
+C:\Program Files (x86)\Windows Kits\10\Testing\StandaloneTesting\Internal\arm64\standalonerunner.exe
+C:\Program Files (x86)\Windows Kits\10\Testing\StandaloneTesting\Internal\x64\standalonerunner.exe
+C:\Program Files (x86)\Windows Kits\10\Testing\StandaloneTesting\Internal\x86\standalonerunner.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\arm\sensordiagnostictool.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\arm\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\arm64\infgate.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\arm64\sensordiagnostictool.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\arm64\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x64\infgate.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x64\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x64\sensordiagnostictool.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x64\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x64\xpsconverter.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x86\infgate.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x86\isxps.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x86\sensordiagnostictool.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x86\usbview.exe
+C:\Program Files (x86)\Windows Kits\10\Tools\10.0.22621.0\x86\xpsconverter.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.UnGAC,version=16.8.3.2061104,chip=neutral,language=neutral\Microsoft.Build.UnGAC.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.UnGAC,version=17.2.1.2225201,chip=neutral,language=neutral\Microsoft.Build.UnGAC.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.NetCore.HostPath,version=17.2.32630.192,language=neutral\HostPath.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Graphics.EnableTools,version=16.8.30509.167\EnableGraphicsTools.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Initializer,version=16.4.29313.120\VSInitializer.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Initializer,version=17.2.32408.312\VSInitializer.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Win10SDK_10.0.18362,version=10.0.18362.0\WinSdkInstaller.exe
+C:\ProgramData\Microsoft\VisualStudio\Packages\Win10SDK_10.0.19041,version=10.0.19041.2\WinSdkInstaller.exe
+C:\ProgramData\Microsoft\VisualStudio\SetupWMI\MofCompiler.exe
+C:\Users\dev\.nuget\packages\entityframework\6.4.4\tools\net40\any\ef6.exe
+C:\Users\dev\.nuget\packages\entityframework\6.4.4\tools\net40\win-x86\ef6.exe
+C:\Users\dev\.nuget\packages\entityframework\6.4.4\tools\net45\any\ef6.exe
+C:\Users\dev\.nuget\packages\entityframework\6.4.4\tools\net45\win-x86\ef6.exe
+C:\Users\dev\.vscode\extensions\ms-vscode.cpptools-1.17.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe
+C:\Users\dev\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\func.exe
+C:\Users\dev\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\NuGet.exe
+C:\Users\dev\AppData\Local\Microsoft\Teams\current\Squirrel.exe
+C:\Users\dev\AppData\Local\Microsoft\Teams\packages\RELEASES.exe
+C:\Users\dev\AppData\Local\Microsoft\Teams\previous\Squirrel.exe
+C:\Users\dev\AppData\Local\Microsoft\Teams\Update.exe
+C:\Users\mr.un1k0d3r\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\func.exe
+C:\Users\mr.un1k0d3r\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\NuGet.exe
+C:\Users\mr.un1k0d3r\AppData\Local\Microsoft\Teams\current\Squirrel.exe
+C:\Users\mr.un1k0d3r\AppData\Local\Microsoft\Teams\previous\Squirrel.exe
+C:\Users\mr.un1k0d3r\AppData\Local\Microsoft\Teams\Update.exe
+C:\Windows\assembly\GAC_32\MSBuild\3.5.0.0__b03f5f7f11d50a3a\MSBuild.exe
+C:\Windows\assembly\GAC_64\MSBuild\3.5.0.0__b03f5f7f11d50a3a\MSBuild.exe
+C:\Windows\assembly\GAC_MSIL\ComSvcConfig\3.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe
+C:\Windows\assembly\GAC_MSIL\dfsvc\2.0.0.0__b03f5f7f11d50a3a\dfsvc.exe
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMCreate\10.0.19041.1__31bf3856ad364e35\VMCreate.exe
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMImport\10.0.19041.1__31bf3856ad364e35\VMImport.exe
+C:\Windows\assembly\GAC_MSIL\PresentationFontCache\3.0.0.0__31bf3856ad364e35\PresentationFontCache.exe
+C:\Windows\assembly\GAC_MSIL\SMSvcHost\3.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe
+C:\Windows\assembly\GAC_MSIL\WsatConfig\3.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe
+C:\Windows\Microsoft.NET\assembly\GAC_32\MSBuild\v4.0_4.0.0.0__b03f5f7f11d50a3a\MSBuild.exe
+C:\Windows\Microsoft.NET\assembly\GAC_64\MSBuild\v4.0_4.0.0.0__b03f5f7f11d50a3a\MSBuild.exe
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect.exe
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect6.2\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect6.2.exe
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect6.3\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect6.3.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\ComSvcConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\dfsvc\v4.0_4.0.0.0__b03f5f7f11d50a3a\dfsvc.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog6.2\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog6.2.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog6.3\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog6.3.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Workflow.Compiler\v4.0_4.0.0.0__31bf3856ad364e35\Microsoft.Workflow.Compiler.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\SMSvcHost\v4.0_4.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\WsatConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regbrowsers.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\CasPol.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\dfsvc.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\IEExec.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\jsc.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegAsm.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regsql.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\CasPol.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\dfsvc.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_compiler.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_regbrowsers.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_regsql.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CasPol.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\dfsvc.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\IEExec.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\jsc.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\RegAsm.exe
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\RegSvcs.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_compiler.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_regbrowsers.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_regsql.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\CasPol.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\dfsvc.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\jsc.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegSvcs.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WsatConfig.exe
+C:\Windows\System32\AppV\AppVStreamingUX.exe
+C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\MCU.exe
+C:\Windows\System32\FileHistory.exe
+C:\Windows\System32\MCU.exe
+C:\Windows\System32\Microsoft.Uev.SyncController.exe
+C:\Windows\System32\ScriptRunner.exe
+C:\Windows\System32\stordiag.exe
+C:\Windows\System32\TsWpfWrp.exe
+C:\Windows\System32\tzsync.exe
+C:\Windows\System32\UevAgentPolicyGenerator.exe
+C:\Windows\System32\UevAppMonitor.exe
+C:\Windows\System32\UevTemplateBaselineGenerator.exe
+C:\Windows\System32\UevTemplateConfigItemGenerator.exe
+C:\Windows\System32\vmconnect.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy\SecureAssessmentBrowser.exe
+C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\XBox.TCUI.exe
+C:\Windows\SysWOW64\stordiag.exe
+C:\Windows\SysWOW64\TsWpfWrp.exe
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell_ise.exe
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_4.0.15805.0_none_faee98a3c711fae7\AddInProcess32.exe
+C:\Windows\WinSxS\amd64_addinprocess_b77a5c561934e089_4.0.15805.0_none_74baba51266f3010\AddInProcess.exe
+C:\Windows\WinSxS\amd64_addinutil_b77a5c561934e089_4.0.15805.0_none_fcd173bc1b434b81\AddInUtil.exe
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15805.0_none_73cc8b3e43ba1056\aspnet_compiler.exe
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15805.0_none_646d7347043be71c\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15805.0_none_aadf84cda75da02d\aspnet_regsql.exe
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_c6dc1994db088235\CasPol.exe
+C:\Windows\WinSxS\amd64_comsvcconfig_b03f5f7f11d50a3a_4.0.15805.0_none_468e01fabfc37212\ComSvcConfig.exe
+C:\Windows\WinSxS\amd64_datasvcutil_b77a5c561934e089_4.0.15805.0_none_5b1ada239e3b0505\DataSvcUtil.exe
+C:\Windows\WinSxS\amd64_dfsvc_b03f5f7f11d50a3a_4.0.15805.0_none_c0d2d1227427864f\dfsvc.exe
+C:\Windows\WinSxS\amd64_edmgen_b77a5c561934e089_4.0.15805.0_none_ae80a3049486a75f\EdmGen.exe
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_d67d06ef0c4a2e1c\InstallUtil.exe
+C:\Windows\WinSxS\amd64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_02d98290c2a0aa6b\jsc.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_ee822d264112a470\powershell_ise.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-storage-diagnostics_31bf3856ad364e35_10.0.19041.1_none_2aa26221a7a3d549\stordiag.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-timezone-sync_31bf3856ad364e35_10.0.19041.1_none_4521fd67bfb25b6a\tzsync.exe
+C:\Windows\WinSxS\amd64_microsoft.workflow.compiler_31bf3856ad364e35_4.0.15805.0_none_eb7ee992c51a9917\Microsoft.Workflow.Compiler.exe
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_dc3886319c616739\MSBuild.exe
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.0_none_d4039dd5692796db\ngentask.exe
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_7219923700ae18c0\RegAsm.exe
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_4534bcdd53211170\RegSvcs.exe
+C:\Windows\WinSxS\amd64_smsvchost_b03f5f7f11d50a3a_4.0.15805.0_none_6d5f51303f9aca21\SMSvcHost.exe
+C:\Windows\WinSxS\amd64_vmconnect6.2_31bf3856ad364e35_10.0.19041.1_none_5c4aee22bbc45ef1\vmconnect6.2.exe
+C:\Windows\WinSxS\amd64_vmconnect6.3_31bf3856ad364e35_10.0.19041.1_none_5c4ad75abbc47892\vmconnect6.3.exe
+C:\Windows\WinSxS\amd64_vmconnect_31bf3856ad364e35_10.0.19041.1_none_462739ece97bd4ed\vmconnect.exe
+C:\Windows\WinSxS\amd64_wcf-comsvcconfig_b03f5f7f11d50a3a_10.0.19041.1_none_3f67a7384812df13\ComSvcConfig.exe
+C:\Windows\WinSxS\amd64_wcf-servicemodelreg_b03f5f7f11d50a3a_10.0.19041.1_none_2d88affdefab54a8\ServiceModelReg.exe
+C:\Windows\WinSxS\amd64_wcf-smsvchost_b03f5f7f11d50a3a_10.0.19200.110_none_11b0c321be81025e\SMSvcHost.exe
+C:\Windows\WinSxS\amd64_wcf-wsatconfig_b03f5f7f11d50a3a_10.0.19041.1_none_c45aa783f860ee61\WsatConfig.exe
+C:\Windows\WinSxS\amd64_wsatconfig_b03f5f7f11d50a3a_4.0.15805.0_none_63e334c9a2aa569e\WsatConfig.exe
+C:\Windows\WinSxS\msil_comsvcconfig_b03f5f7f11d50a3a_10.0.19041.1_none_ac711518659a66a5\ComSvcConfig.exe
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmcreate_31bf3856ad364e35_10.0.19041.1_none_8d387dde0a6c6d14\VMCreate.exe
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmimport_31bf3856ad364e35_10.0.19041.1_none_db0db48be3885975\VMImport.exe
+C:\Windows\WinSxS\msil_inspectvhddialog6.2_31bf3856ad364e35_10.0.19041.1_none_7dc923aebe8d0c7f\InspectVhdDialog6.2.exe
+C:\Windows\WinSxS\msil_inspectvhddialog6.3_31bf3856ad364e35_10.0.19041.1_none_7dca23f8be8c25d6\InspectVhdDialog6.3.exe
+C:\Windows\WinSxS\msil_inspectvhddialog_31bf3856ad364e35_10.0.19041.1_none_cc14df174755d4a1\InspectVhdDialog.exe
+C:\Windows\WinSxS\msil_servicemodelreg_b03f5f7f11d50a3a_10.0.19041.1_none_0bb55a3e8d066c16\ServiceModelReg.exe
+C:\Windows\WinSxS\msil_smsvchost_b03f5f7f11d50a3a_10.0.19200.110_none_30a09d63c4775424\SMSvcHost.exe
+C:\Windows\WinSxS\msil_wsatconfig_b03f5f7f11d50a3a_10.0.19041.1_none_c9c647e748814b31\WsatConfig.exe
+C:\Windows\WinSxS\wow64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15805.0_none_9d9ad2580504a573\aspnet_compiler.exe
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15805.0_none_8e3bba60c5867c39\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15805.0_none_d4adcbe768a8354a\aspnet_regsql.exe
+C:\Windows\WinSxS\wow64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_f0aa60ae9c531752\CasPol.exe
+C:\Windows\WinSxS\wow64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_004b4e08cd94c339\InstallUtil.exe
+C:\Windows\WinSxS\wow64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_2ca7c9aa83eb3f88\jsc.exe
+C:\Windows\WinSxS\wow64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_f8d6d7787573666b\powershell_ise.exe
+C:\Windows\WinSxS\wow64_microsoft-windows-storage-diagnostics_31bf3856ad364e35_10.0.19041.1_none_34f70c73dc049744\stordiag.exe
+C:\Windows\WinSxS\wow64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_0606cd4b5dabfc56\MSBuild.exe
+C:\Windows\WinSxS\wow64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_9be7d950c1f8addd\RegAsm.exe
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_4.0.15805.0_none_429bcf7adb8e23ed\AddInProcess32.exe
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.0_none_1bb0d4ac7da3bfe1\ngentask.exe
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_8ce1f3b4679d3a76\RegSvcs.exe
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_10.0.19041.1_none_3700bdc08c446a5c\AddInProcess32.exe
+C:\Windows\WinSxS\msil_addinprocess_b77a5c561934e089_10.0.19041.1_none_5170c1bc799e651e\AddInProcess.exe
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_82a6b3679b68b331\MSBuild.exe
+C:\Windows\WinSxS\amd64_netfx35linq-addinprocess_31bf3856ad364e35_10.0.19041.1_none_e688384bec188769\AddInProcess.exe
+C:\Windows\WinSxS\amd64_netfx35linq-edmgen_31bf3856ad364e35_10.0.19041.1_none_646d0595db3c1ad4\EdmGen.exe
+C:\Windows\WinSxS\msil_addinutil_b77a5c561934e089_10.0.19041.1_none_724c73dbde296e25\AddInUtil.exe
+C:\Windows\WinSxS\amd64_netfx35linq-addinutil_31bf3856ad364e35_10.0.19041.1_none_810f46ab82b9619e\AddInUtil.exe
+C:\Windows\WinSxS\msil_datasvcutil_b77a5c561934e089_10.0.19041.1_none_27a74d404373e881\DataSvcUtil.exe
+C:\Windows\WinSxS\amd64_netfx35linq-datasvcutil_31bf3856ad364e35_10.0.19041.1_none_4547ebb03c53c11a\DataSvcUtil.exe
+C:\Windows\WinSxS\msil_edmgen_b77a5c561934e089_10.0.19041.1_none_25aa820b9acb3357\EdmGen.exe
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_636ab5ebe47bac5e\RegSvcs.exe
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_10.0.19041.1_none_f4b2fffd9da4c90a\InstallUtil.exe
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_904f8b459208b3ae\RegAsm.exe
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_e51212a36c631d23\CasPol.exe
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_10.0.19041.1_none_9202844cd514ab44\aspnet_compiler.exe
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19041.1_none_82a36c559596820a\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_fa6e7f402dbc0227\MSBuild.exe
+C:\Windows\WinSxS\msil_ieexec_b03f5f7f11d50a3a_10.0.19041.1_none_3fc8ddfd98ad3137\IEExec.exe
+C:\Windows\WinSxS\amd64_netfx-jsc_b03f5f7f11d50a3a_10.0.19041.1_none_014838ef8bea39e9\jsc.exe
+C:\Windows\WinSxS\msil_dfsvc_b03f5f7f11d50a3a_10.0.19041.1_none_26b5e44019fe7ae2\dfsvc.exe
+C:\Windows\WinSxS\amd64_netfx-ieexec_b03f5f7f11d50a3a_10.0.19041.1_none_6a5de40c0a30489e\IEExec.exe
+C:\Windows\WinSxS\amd64_netfx-dfsvc_b03f5f7f11d50a3a_10.0.19041.1_none_833d086e8f306c45\dfsvc.exe
+C:\Windows\WinSxS\msil_jsc_b03f5f7f11d50a3a_10.0.19041.1_none_68bc95ae68779efe\jsc.exe
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_10.0.19041.1_none_c9157ddc38b83b1b\aspnet_regsql.exe
+C:\Windows\WinSxS\amd64_wpf-presentationfontcache_31bf3856ad364e35_10.0.19041.1_none_bb8aa452b18b9835\PresentationFontCache.exe
+C:\Windows\WinSxS\amd64_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.19041.1_none_da504d0e6afd0a49\TsWpfWrp.exe
+C:\Windows\WinSxS\amd64_wpf-xamlviewer_31bf3856ad364e35_10.0.19041.1_none_0bff5a051c4a690a\XamlViewer_v0300.exe
+C:\Windows\WinSxS\msil_presentationfontcache_31bf3856ad364e35_10.0.19041.1_none_679d42cd97347ace\PresentationFontCache.exe
+C:\Windows\WinSxS\x86_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.19041.1_none_7e31b18ab29f9913\TsWpfWrp.exe
+C:\Windows\WinSxS\x86_wpf-xamlviewer_31bf3856ad364e35_10.0.19041.1_none_afe0be8163ecf7d4\XamlViewer_v0300.exe
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_10.0.19041.1_none_dae2223cd3e6f926\AddInProcess32.exe
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_268817e3e30b41fb\MSBuild.exe
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_ab17ecc2f8f7d564\RegSvcs.exe
+C:\Windows\WinSxS\x86_installutil_b03f5f7f11d50a3a_10.0.19041.1_none_3c6036d4b220f210\InstallUtil.exe
+C:\Windows\WinSxS\x86_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_d7fcc21ca684dcb4\RegAsm.exe
+C:\Windows\WinSxS\x86_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_2cbf497a80df4629\CasPol.exe
+C:\Windows\WinSxS\x86_aspnet_compiler_b03f5f7f11d50a3a_10.0.19041.1_none_d9afbb23e990d44a\aspnet_compiler.exe
+C:\Windows\WinSxS\x86_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19041.1_none_ca50a32caa12ab10\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_421bb61742382b2d\MSBuild.exe
+C:\Windows\WinSxS\x86_aspnet_regsql_b03f5f7f11d50a3a_10.0.19041.1_none_10c2b4b34d346421\aspnet_regsql.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.19041.3570_none_cf3f3177700e21ea\iediagcmd.exe
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.19041.746_none_0119299746221375\XBox.TCUI.exe
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.285_none_cbd46ba524299690\ngentask.exe
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.285_none_1381a27c38a5bf96\ngentask.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3570_none_715295f79a42d117\Microsoft.Uev.SyncController.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3570_none_715295f79a42d117\UevAgentPolicyGenerator.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3570_none_715295f79a42d117\UevAppMonitor.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3570_none_715295f79a42d117\UevTemplateBaselineGenerator.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3570_none_715295f79a42d117\UevTemplateConfigItemGenerator.exe
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.19041.3570_none_97c6cf529c9af28b\XBox.TCUI.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.19041.3570_none_709ae5c5b214d2eb\SecureAssessmentBrowser.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.19041.3031_none_cf7129236fe94a7a\iediagcmd.exe
+C:\Windows\WinSxS\amd64_wsatconfig_b03f5f7f11d50a3a_4.0.15840.3_none_63de3879a2aed0a4\WsatConfig.exe
+C:\Windows\WinSxS\wow64_installutil_b03f5f7f11d50a3a_4.0.15840.3_none_004651b8cd993d3f\InstallUtil.exe
+C:\Windows\WinSxS\amd64_edmgen_b77a5c561934e089_4.0.15840.3_none_ae7ba6b4948b2165\EdmGen.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.19041.3393_none_70b241d9b2031a9a\SecureAssessmentBrowser.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.3448_none_412080707d6a8504\AppVStreamingUX.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.3448_none_412080707d6a8504\ScriptRunner.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3393_none_7169f20b9a3118c6\Microsoft.Uev.SyncController.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3393_none_7169f20b9a3118c6\UevAgentPolicyGenerator.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3393_none_7169f20b9a3118c6\UevAppMonitor.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3393_none_7169f20b9a3118c6\UevTemplateBaselineGenerator.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.3393_none_7169f20b9a3118c6\UevTemplateConfigItemGenerator.exe
+C:\Windows\WinSxS\amd64_datasvcutil_b77a5c561934e089_4.0.15840.3_none_5b15ddd39e3f7f0b\DataSvcUtil.exe
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_4.0.15840.3_none_721495e700b292c6\RegAsm.exe
+C:\Windows\WinSxS\wow64_regasm_b03f5f7f11d50a3a_4.0.15840.3_none_9be2dd00c1fd27e3\RegAsm.exe
+C:\Windows\WinSxS\wow64_caspol_b03f5f7f11d50a3a_4.0.15840.3_none_f0a5645e9c579158\CasPol.exe
+C:\Windows\WinSxS\amd64_addinprocess_b77a5c561934e089_4.0.15840.3_none_74b5be012673aa16\AddInProcess.exe
+C:\Windows\WinSxS\amd64_addinutil_b77a5c561934e089_4.0.15840.3_none_fccc776c1b47c587\AddInUtil.exe
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_4.0.15840.3_none_8cdcf76467a1b47c\RegSvcs.exe
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_4.0.15840.3_none_4296d32adb929df3\AddInProcess32.exe
+C:\Windows\WinSxS\amd64_comsvcconfig_b03f5f7f11d50a3a_4.0.15840.3_none_468905aabfc7ec18\ComSvcConfig.exe
+C:\Windows\WinSxS\amd64_microsoft.workflow.compiler_31bf3856ad364e35_4.0.15840.3_none_eb79ed42c51f131d\Microsoft.Workflow.Compiler.exe
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15840.3_none_d3fea185692c10e1\ngentask.exe
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15840.3_none_1babd85c7da839e7\ngentask.exe
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.3_none_aada887da7621a33\aspnet_regsql.exe
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.3_none_d4a8cf9768acaf50\aspnet_regsql.exe
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.3_none_646876f704406122\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.3_none_8e36be10c58af63f\aspnet_regbrowsers.exe
+C:\Windows\WinSxS\amd64_smsvchost_b03f5f7f11d50a3a_4.0.15840.3_none_6d5a54e03f9f4427\SMSvcHost.exe
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15840.3_none_73c78eee43be8a5c\aspnet_compiler.exe
+C:\Windows\WinSxS\wow64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15840.3_none_9d95d60805091f79\aspnet_compiler.exe
+C:\Windows\WinSxS\wow64_jsc_b03f5f7f11d50a3a_4.0.15840.3_none_2ca2cd5a83efb98e\jsc.exe
+C:\Windows\WinSxS\wow64_msbuild_b03f5f7f11d50a3a_4.0.15840.3_none_0601d0fb5db0765c\MSBuild.exe
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_4.0.15840.3_none_452fc08d53258b76\RegSvcs.exe
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_4.0.15840.3_none_c6d71d44db0cfc3b\CasPol.exe
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_4.0.15840.3_none_fae99c53c71674ed\AddInProcess32.exe
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_4.0.15840.3_none_d6780a9f0c4ea822\InstallUtil.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.19041.3031_none_c30b6acf40286e02\FileHistory.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.3570_none_411967a27d6f1ff2\AppVStreamingUX.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.3570_none_411967a27d6f1ff2\ScriptRunner.exe
+C:\Windows\WinSxS\amd64_dfsvc_b03f5f7f11d50a3a_4.0.15840.3_none_c0cdd4d2742c0055\dfsvc.exe
+C:\Windows\WinSxS\amd64_jsc_b03f5f7f11d50a3a_4.0.15840.3_none_02d48640c2a52471\jsc.exe
+C:\Windows\WinSxS\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.19041.3570_none_c2d97323404d4572\FileHistory.exe
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_4.0.15840.3_none_dc3389e19c65e13f\MSBuild.exe
